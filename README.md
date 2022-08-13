@@ -10,7 +10,6 @@ I am not responsible for any hardware damage, you run this programm on your own 
 
 
 <details>
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------
 <summary>MSYS2's and Mingw's install instruction</summary>
 
 1. Follow these [install instructions](https://www.msys2.org/) to install MSYS2 including Mingw-w64
@@ -20,7 +19,7 @@ I am not responsible for any hardware damage, you run this programm on your own 
      1. Type environment variable in the Windows search bar, hit enter <br/>
      2. Chose *"Environment variables"* on the bottom right hand corner <br/>
      3. Click on *"Path"*, then on edit <br/>
-     4. Select *"New"*, then add this `C:\msys64\mingw64\bin` to the `PATH` <br/>
+     4. Select *"New"*, then add this `C:\msys64\mingw64\bin` to the new entry<br/>
      5. Click "*OK*", you can now close all windows
 
 (**NOTE:** Replace `C:\msys64\mingw64\bin` with your own destination folder if you changed it during the installation!)
@@ -28,8 +27,7 @@ I am not responsible for any hardware damage, you run this programm on your own 
 That's it! Don't forget to reopen all open console windows.
 
 **(Source: https://code.visualstudio.com/docs/cpp/config-mingw)** <br/>
-
-\-------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br/>
 </details>
 
 
