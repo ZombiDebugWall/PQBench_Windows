@@ -5,7 +5,7 @@ Simple benchmark which benches your single-core CPU performance using the pq-for
 ## Compilation and installation
 I am not responsible for any hardware damage, you run this programm on your own risk!
 
-(I don't recommand to compile pqbench with Microsoft Visual Studio, because of optimization problems. Follow instructions below instead.)
+(I don't recommand to compile pqbench in Microsoft Visual Studio, because of optimization problems. Follow instructions below instead.)
 
 
 
